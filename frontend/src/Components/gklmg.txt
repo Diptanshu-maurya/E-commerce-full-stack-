@@ -1,0 +1,14 @@
+
+//productdetail
+
+<div className="font-bold text-2xl ml-36 p-4">Related Products</div>
+
+      <div className="flex flex-wrap gap-4 pl-36">
+        <SingleProduct product={product}></SingleProduct>
+        <SingleProduct product={product}></SingleProduct>
+        <SingleProduct product={product}></SingleProduct>
+        <SingleProduct product={product}></SingleProduct>
+        <SingleProduct product={product}></SingleProduct>
+        <SingleProduct product={product}></SingleProduct>
+        <SingleProduct product={product}></SingleProduct>
+      </div>
